@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>How to download pornhub videos</title>
+    <link href="/2020/04/04/how-to-download-pornhub-videos/"/>
+    <url>/2020/04/04/how-to-download-pornhub-videos/</url>
+    
+    <content type="html"><![CDATA[<p>If you are viewing the pornhub website and want to save the video you like, it’s not complex to download without login or registry. Firstly, click the shortcut key F12 or open the developer mode at your page and switch to Console panel. Secondly,  After finished load, typing the following code in your console input.</p><pre><code class="javascript">for (var attr in window)       if (attr.indexOf(&#39;qualityItems&#39;) !== -1)            console.log(window[attr])</code></pre><p>If you get result and expand the result which contains each quality with link. Copy the link and use the downloader to downlod it. Go for it!!!</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
